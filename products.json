@@ -1,0 +1,32 @@
+[
+    {
+        "name" : "Nike Shoes",
+        "category" : "shoes",
+        "price" : "45.00",
+        "imgSrc" : "IMG/shoe2.jpg"
+    },
+    {
+        "name" : "Dove Nourishing Cream",
+        "category" : "beauty",
+        "price" : "15.25",
+        "imgSrc" : "IMG/dove-cream.jpg"
+    },
+    {
+        "name" : "Apple Watch",
+        "category" : "electronics",
+        "price" : "90.00",
+        "imgSrc" : "IMG/smart-watch.jpg"
+    },
+    {
+        "name" : "Beats Headphones",
+        "category" : "electronics",
+        "price" : "35.00",
+        "imgSrc" : "IMG/headphones.jpg"
+    },
+    {
+        "name" : "Perfume",
+        "category" : "lifestyle",
+        "price" : "15.00",
+        "imgSrc" : "IMG/perfume.jpg"
+    }
+]
